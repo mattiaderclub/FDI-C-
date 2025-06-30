@@ -1,0 +1,5 @@
+Nome Mattia , Cognome Lenti , Voto 33 , Matricola 0
+Nome Nicolo , Cognome Romanelli , Voto 16 , Matricola 1
+Nome Fabio , Cognome Papa , Voto 56 , Matricola 54
+Nome Carlotta , Cognome Mariani , Voto 0 , Matricola 1900
+Nome Fabrizio , Cognome Frati , Voto 104 , Matricola 1927
